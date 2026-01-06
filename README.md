@@ -1,4 +1,6 @@
 ![visitor badge](https://visitor-badge.laobi.icu/badge?page_id=TayyabaChaudhury.TayyabaChaudhury)
+<img src="https://readme-typing-svg.herokuapp.com?size=24&duration=4000&color=36BCF7&lines=Hi%2C+I'm+Tayyaba+Chaudhury;Passionate+Programmer;Learning+and+Building+Projects" />
+
 
 
 
