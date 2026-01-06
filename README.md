@@ -15,13 +15,24 @@
 
 - 🔭 I’m currently working on **Data Structures**
 - 🌱 I’m currently learning **OOP**
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
 - 💬 Ask me about **c++,c,html... or anything [here](https://github.com/TayyabaChaudhury/TayyabaAsif/issues)**
 - ⚡ Fun fact:**I'm Ambivert**
 
   </div>
 <div align="center">
+
+
+<h2 align="center">🛠️ Languages-Frameworks-Tools 🛠️</h2>
+
+<br/>
+
+<div align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=github,javascript,c,cpp" /><br>
+    <img src="https://skillicons.dev/icons?i=html,css,vscode,git" />
+  </a>
+</div>
+
 
 
 
