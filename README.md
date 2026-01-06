@@ -28,10 +28,14 @@
 
 <div align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=github,javascript,c,cpp" /><br>
-    <img src="https://skillicons.dev/icons?i=html,css,vscode,git" />
+    <!-- Top row: fewer icons -->
+    <img src="https://skillicons.dev/icons?i=github,javascript,cpp" />
+    <br><br>
+    <!-- Bottom row: more icons -->
+    <img src="https://skillicons.dev/icons?i=c,html,css,vscode,git" />
   </a>
 </div>
+
 
 
 <h2 align="center">⚡ Stats ⚡</h2>
