@@ -10,9 +10,18 @@
 
 <br/>
 
+<div align="center">
 
 
+- 🔭 I’m currently working on **Data Structures**
+- 🌱 I’m currently learning **OOP**
+- 👯 I’m looking to collaborate on ...
+- 🤔 I’m looking for help with ...
+- 💬 Ask me about **c++,c,html... or anything [here](https://github.com/TayyabaChaudhury/TayyabaAsif/issues)**
+- ⚡ Fun fact:**I'm Ambivert**
 
+  </div>
+<div align="center">
 
 
 
@@ -52,7 +61,7 @@
 
 
 
-## Hi there 👋
+
 
 <!--
 **TayyabaChaudhury/TayyabaChaudhury** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
