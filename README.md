@@ -34,11 +34,25 @@
 </div>
 
 
+<h2 align="center">⚡ Stats ⚡</h2>
 
+<br/>
 
+<div align="center">
+  <img width="390" src="https://streak-stats.demolab.com/?user=TayyabaChaudhury&count_private=true&theme=react&border_radius=10" alt="streak stats" />
+  <img width="390" src="https://github-readme-stats.vercel.app/api?username=TayyabaChaudhury&count_private=true&show_icons=true&theme=react&rank_icon=github&border_radius=10" alt="readme stats" />
+  <br/>
+  <img width="325" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TayyabaChaudhury&hide=HTML&langs_count=8&layout=compact&theme=react&border_radius=10" alt="top langs" />
+</div>
 
+<br/><br/>
+<hr/>
 
-
+<h3 align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=25&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Thanks+for+visiting!+👋;+Shoot+me+a+message+on+LinkedIn!;+I'm+always+down+to+collab+😊" />
+  </a>
+</h3>
 
 
 
@@ -56,7 +70,6 @@
 
 ![Tayyaba's GitHub Stats](https://github-readme-stats.vercel.app/api?username=TayyabaChaudhury&show_icons=true&theme=radical)
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=TayyabaChaudhury&theme=radical)
-<img src="https://skillicons.dev/icons?i=cpp,html,c,github,access" />
 
 
 
@@ -74,17 +87,3 @@
 
 
 
-<!--
-**TayyabaChaudhury/TayyabaChaudhury** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
