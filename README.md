@@ -1,6 +1,8 @@
 
+<p align="center">
+  <img src="https://raw.githubusercontent.com/TayyabaChaudhury/TayyabaChaudhury/main/assets/banner.jpg" width="600" height="150" />
+</p>
 
-![Banner](https://raw.githubusercontent.com/TayyabaChaudhury/TayyabaChaudhury/main/assets/banner.jpg)
 
 <br/>
 
