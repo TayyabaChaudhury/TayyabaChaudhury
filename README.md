@@ -12,14 +12,12 @@
 
 <div align="center">
 
+🔭 Currently focused on **Data Structures & Problem Solving**  
+🌱 Exploring **Object-Oriented Programming (OOP)**  
+💬 Ask me about **C, C++, HTML — or anything [here](https://github.com/TayyabaChaudhury/TayyabaAsif/issues)**  
+⚡ Fun fact: **Ambivert by nature, curious by choice**
 
-- 🔭 I’m currently working on **Data Structures**
-- 🌱 I’m currently learning **OOP**
-- 💬 Ask me about **c++,c,html... or anything [here](https://github.com/TayyabaChaudhury/TayyabaAsif/issues)**
-- ⚡ Fun fact:**I'm Ambivert**
-
-  </div>
-<div align="center">
+</div>
 
 
 <h2 align="center">🛠️ Languages-Frameworks-Tools 🛠️</h2>
