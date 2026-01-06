@@ -1,23 +1,20 @@
-
-<p align="center">
+<!-- Banner with overlay -->
+<p align="center" style="position: relative; display: inline-block;">
+  <!-- Banner Image -->
   <img src="https://raw.githubusercontent.com/TayyabaChaudhury/TayyabaChaudhury/main/assets/banner.jpg" width="600" height="150" />
+
+  <!-- Visitor Badge -->
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=salesp07.salesp07" 
+       style="position: absolute; top: 10px; right: 10px;" />
+
+  <!-- Animated Text -->
+  <span style="position: absolute; top: 50%; left: 50%; transform: translate(-50%, -50%);">
+    <a href="https://git.io/typing-svg">
+      <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Tayyaba+Asif :);" />
+    </a>
+  </span>
 </p>
 
-
-<br/>
-
-
-
-
-
-
-<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=salesp07.salesp07" />
-
-<h1 align="center">
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Tayyaba+Asif :);" />
-  </a>
-</h1>
 
 <h3 align="center">A passionate Computer Science Student</h3>
 
