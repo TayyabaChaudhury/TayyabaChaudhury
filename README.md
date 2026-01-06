@@ -1,7 +1,7 @@
 
 
-<img src="https://raw.githubusercontent.com/TayyabaChaudhury/TayyabaChaudhury/main/assets/banner.png
-" width="100%" />
+![Banner](https://raw.githubusercontent.com/TayyabaChaudhury/TayyabaChaudhury/main/assets/banner.jpg)
+
 <br/>
 
 
