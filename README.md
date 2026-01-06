@@ -1,3 +1,18 @@
+![visitor badge](https://visitor-badge.laobi.icu/badge?page_id=TayyabaChaudhury.TayyabaChaudhury)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 ## Hi there 👋
 
 <!--
