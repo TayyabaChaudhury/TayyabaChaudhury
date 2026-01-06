@@ -1,5 +1,7 @@
 
-<img src="https://raw.githubusercontent.com/TayyabaChaudhry/TayyabaChaudhry/main/assets/banner.png" width="100%" />
+
+<img src="https://raw.githubusercontent.com/TayyabaChaudhury/TayyabaChaudhury/main/assets/banner.png
+" width="100%" />
 <br/>
 
 
