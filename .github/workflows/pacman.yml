@@ -2,44 +2,38 @@ name: Generate Pacman Contribution Graph
 
 on:
   schedule:
-    - cron: '0 0 * * *' # runs daily at midnight UTC
-  workflow_dispatch: # allows manual trigger
+    - cron: '0 0 * * *' # daily
+  workflow_dispatch:
 
 jobs:
   generate-graph:
     runs-on: ubuntu-latest
 
     steps:
-      # 1️⃣ Checkout the repo
-      - name: Checkout repository
+      - name: Checkout repo
         uses: actions/checkout@v3
 
-      # 2️⃣ Setup Python
-      - name: Set up Python
+      - name: Setup Python
         uses: actions/setup-python@v4
         with:
           python-version: '3.x'
 
-      # 3️⃣ Install dependencies
       - name: Install dependencies
-        run: |
-          pip install matplotlib pandas numpy
+        run: pip install matplotlib pandas numpy
 
-      # 4️⃣ Ensure output folder exists
-      - name: Create output folder
+      # ✅ Only added this step to ensure folder exists
+      - name: Ensure output folder exists
         run: mkdir -p output
 
-      # 5️⃣ Generate Pacman graph
-      - name: Generate Pacman contribution graph
+      - name: Generate Pacman graph
         run: python generate_pacman_graph.py
 
-      # 6️⃣ Commit & push updated graph
-      - name: Commit and push Pacman graph
+      - name: Commit and push
         run: |
           git config --global user.name "github-actions[bot]"
           git config --global user.email "github-actions[bot]@users.noreply.github.com"
           git add output/pacman-contribution-graph.svg
-          git commit -m "Update Pacman contribution graph" || echo "No changes to commit"
-          git push origin HEAD:${{ github.ref }}
+          git commit -m "Update Pacman graph" || echo "No changes to commit"
+          git push
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
