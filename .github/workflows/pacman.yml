@@ -10,26 +10,30 @@ jobs:
     runs-on: ubuntu-latest
 
     steps:
-      # Step 1: Checkout the repo
+      # 1️⃣ Checkout the repo
       - name: Checkout repository
         uses: actions/checkout@v3
 
-      # Step 2: Setup Python
+      # 2️⃣ Setup Python
       - name: Set up Python
         uses: actions/setup-python@v4
         with:
           python-version: '3.x'
 
-      # Step 3: Install dependencies
+      # 3️⃣ Install dependencies
       - name: Install dependencies
         run: |
           pip install matplotlib pandas numpy
 
-      # Step 4: Generate Pacman graph
+      # 4️⃣ Ensure output folder exists
+      - name: Create output folder
+        run: mkdir -p output
+
+      # 5️⃣ Generate Pacman graph
       - name: Generate Pacman contribution graph
         run: python generate_pacman_graph.py
 
-      # Step 5: Commit & push updated graph
+      # 6️⃣ Commit & push updated graph
       - name: Commit and push Pacman graph
         run: |
           git config --global user.name "github-actions[bot]"
