@@ -54,15 +54,12 @@
 
 
 <h2 align="center">⚡ Stats ⚡</h2>
-
 <br/>
-
 <div align="center">
-  <img width="390" src="https://streak-stats.demolab.com/?user=TayyabaChaudhury&count_private=true&theme=react&border_radius=10" alt="streak stats" />
+  <img width="390" src="https://github-readme-stats.vercel.app/api?username=TayyabaChaudhury&show_icons=true&count_private=true&theme=react&hide_border=false" alt="Tayyaba's GitHub Stats" />
+  <br><br>
+  <img width="390" src="https://github-readme-streak-stats.herokuapp.com/?user=TayyabaChaudhury&theme=react&hide_border=false" alt="GitHub Streak Stats" />
 </div>
-
-<br/><br/>
-<hr/>
 
 <h3 align="center">
   <a href="https://git.io/typing-svg">
