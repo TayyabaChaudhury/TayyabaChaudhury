@@ -53,10 +53,16 @@
 
 
 
-<h2 align="center">🔥 Streak 🔥</h2>
-<p align="center">
-  <img width="400" src="https://github-readme-streak-stats.herokuapp.com/?user=TayyabaChaudhury&theme=react&hide_border=false" alt="GitHub Streak Stats" />
-</p>
+<h2 align="center">⚡ Stats ⚡</h2>
+
+<br/>
+
+<div align="center">
+  <img width="390" src="https://streak-stats.demolab.com/?user=TayyabaChaudhury&count_private=true&theme=react&border_radius=10" alt="streak stats" />
+
+</div>
+
+
 
 
 <h3 align="center">
