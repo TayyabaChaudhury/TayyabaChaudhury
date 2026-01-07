@@ -7,6 +7,7 @@
 
 
 
+
 <!-- Visitor Badge (static example using Shields.io for reliability) -->
 <p align="center">
   <img src="https://img.shields.io/badge/Profile%20Views-0-blue" alt="Profile Views" />
@@ -15,14 +16,14 @@
 <!-- Animated Text -->
 <p align="center">
   <img 
-    src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi%20There%21%20%F0%9F%91%8B;I%27m%20Tayyaba%20Asif"
+    src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi%20There%21%20%F0%9F%91%8B"
     alt="Typing SVG"/>
 </p>
 
 
 
 
-<h3 align="center">A passionate Computer Science Student</h3>
+<h3 align="center">A passionate problem-solver</h3>
 
 <br/>
 
