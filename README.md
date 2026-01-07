@@ -23,7 +23,7 @@
 
 
 
-<h3 align="center">A passionate problem-solver</h3>
+
 
 <br/>
 
