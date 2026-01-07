@@ -1,9 +1,10 @@
-<!-- Banner -->
 <p align="center">
   <img 
-    src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Tayyaba%20Asif&fontSize=42&fontAlignY=35&desc=Computer%20Science%20Student%20%7C%20Problem%20Solver&descAlignY=55&animation=fadeIn"
-    alt="Animated Banner"/>
+    src="https://svg-banners.vercel.app/api?type=typeWriter&text1=Hi%2C%20I%27m%20Tayyaba%20Asif&text2=Computer%20Science%20Student&text3=Problem%20Solver%20%7C%20Curious%20Learner&width=800&height=200"
+    alt="Typing Banner"
+  />
 </p>
+
 
 
 <!-- Visitor Badge (static example using Shields.io for reliability) -->
