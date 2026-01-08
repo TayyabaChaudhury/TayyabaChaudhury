@@ -18,7 +18,7 @@
 <!-- Animated Text -->
 <p align="center">
   <img 
-    src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=900&height=70&duration=4000&lines=Hi%2C+I%27m+Tayyaba+Asif+%3B+A+Computer+Science+Student+........."
+    src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=900&height=70&duration=4000&lines=Hi%2C+I%27m+Tayyaba+Asif+%3B+A+Computer+Science+Student+..."
     alt="Typing SVG"
   />
 </p>
