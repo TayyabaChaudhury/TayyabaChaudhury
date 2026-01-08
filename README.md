@@ -1,9 +1,11 @@
 <!-- Banner -->
 <p align="center">
-  <img 
-    src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Tayyaba%20Asif&fontSize=42&fontAlignY=35&desc=Computer%20Science%20Student%20%7C%20Problem%20Solver&descAlignY=55&animation=fadeIn"
-    alt="Animated Banner"/>
+  <img
+    src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&animation=fadeIn"
+    alt="Animated Banner"
+  />
 </p>
+
 
 
 
