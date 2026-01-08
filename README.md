@@ -18,10 +18,10 @@
 <!-- Animated Text -->
 <p align="center">
   <img 
-    src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi%20There%21%20%F0%9F%91%8B"
-    alt="Typing SVG"/>
+    src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=900&height=70&duration=4000&lines=Hi%2C+I%27m+Tayyaba+Asif+%3B+a+Computer+Science+Student"
+    alt="Typing SVG"
+  />
 </p>
-
 
 
 
