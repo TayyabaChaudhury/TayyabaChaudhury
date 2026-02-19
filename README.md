@@ -10,10 +10,6 @@
 
 
 
-<!-- Visitor Badge (static example using Shields.io for reliability) -->
-<p align="center">
-  <img src="https://img.shields.io/badge/Profile%20Views-0-blue" alt="Profile Views" />
-</p>
 
 <!-- Animated Text -->
 <p align="center">
